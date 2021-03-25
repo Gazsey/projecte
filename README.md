@@ -1,2 +1,1 @@
-# projecte
-...
+# PROJECTE README # 
